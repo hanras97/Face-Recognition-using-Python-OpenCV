@@ -18,4 +18,4 @@ This project consist of 3 parts, which are:
 - The images get trained by itself and the results will be shown if no interupption is made while camera is live. 
 
 ## Results
-![alt-text]https://github.com/hanras97/Face-Recognition-using-LBPH/blob/master/results.gif
+![alt-text](https://github.com/hanras97/Face-Recognition-using-LBPH/blob/master/results.gif)
