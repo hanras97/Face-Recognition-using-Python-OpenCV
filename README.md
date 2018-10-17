@@ -1,5 +1,5 @@
 # Face Recognition using Python & OpenCV
-Simple Face Recognition algorithm using Haar Cascade Classifer & Local Binary Pattern Histograms(LBPH)
+Simple Face Recognition algorithm using Haar Cascade Classifer & Local Binary Pattern Histograms(LBPH).
 
 ## Requirements
 - Python 3.6
