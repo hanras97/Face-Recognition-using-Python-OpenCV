@@ -6,7 +6,7 @@ Simple Face Recognition algorithm using Haar Cascade Classifer & Local Binary Pa
 - OpenCV 3.2.0
 - Numpy
 
-## Outline
+## Overview
 This project consist of 3 parts, which are:
 1. Creating datasets
 2. Train the model 
